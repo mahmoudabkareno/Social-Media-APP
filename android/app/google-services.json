@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781677273235",
+    "firebase_url": "https://social-media-app-564a5.firebaseio.com",
+    "project_id": "social-media-app-564a5",
+    "storage_bucket": "social-media-app-564a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781677273235:android:4c3f6d49b96a728cd02d66",
+        "android_client_info": {
+          "package_name": "com.mahmoudabkareno.instgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781677273235-ua34gin19dj1u5fj0srkcoetu967dpne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2OpvSOKqn1jSv-ipXwF8KB_CXH6rRlyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781677273235-ua34gin19dj1u5fj0srkcoetu967dpne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
